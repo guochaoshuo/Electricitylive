@@ -251,12 +251,12 @@ paket-files/
 .idea/
 *.sln.iml
 
-# Myproject
-src/Myproject.Web/Logs/*
-src/Myproject.Web.Host/Logs/*
-src/Myproject.IdentityServer/Logs/*
-src/Myproject.HttpApi.Host/Logs/*
-src/Myproject.HttpApi.HostWithIds/Logs/*
-src/Myproject.DbMigrator/Logs/*
-src/Myproject.Blazor.Server/Logs/*
-src/Myproject.Blazor.Server.Tiered/Logs/*
+# LowCodeDevelopment
+src/LowCodeDevelopment.Web/Logs/*
+src/LowCodeDevelopment.Web.Host/Logs/*
+src/LowCodeDevelopment.IdentityServer/Logs/*
+src/LowCodeDevelopment.HttpApi.Host/Logs/*
+src/LowCodeDevelopment.HttpApi.HostWithIds/Logs/*
+src/LowCodeDevelopment.DbMigrator/Logs/*
+src/LowCodeDevelopment.Blazor.Server/Logs/*
+src/LowCodeDevelopment.Blazor.Server.Tiered/Logs/*
